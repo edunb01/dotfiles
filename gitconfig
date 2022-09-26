@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = edunb01@hotmail.com
+	name = Eduardo Gomes
